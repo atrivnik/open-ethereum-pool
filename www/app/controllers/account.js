@@ -14,4 +14,4 @@ export default Ember.Controller.extend({
     }
   })
 });
-//123
+//123  ываывав
